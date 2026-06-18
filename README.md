@@ -14,11 +14,8 @@ I am a passionate Software Engineer interested in building real-world projects u
 - Flask
 - Git & GitHub
 
-### Projects
-- House Price Prediction using ML
-- Healthcare Face Recognition Login System
-- Doctor-Patient Audio Prescription System
-- AI Dermatology Assistant
+
+
 
 ### Contact
 📧 shilpaj.21ds@saividya.ac.in
