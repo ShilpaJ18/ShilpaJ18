@@ -1,16 +1,24 @@
-## Hi there 👋
-I am shilpa
-<!--
-**ShilpaJ18/ShilpaJ18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shilpa J 👋
 
-Here are some ideas to get you started:
+## Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Software Engineer interested in building real-world projects using Python, Machine Learning, Data Science, and Web Development.
+
+### Skills
+- Python
+- Java
+- SQL
+- Machine Learning
+- Data Science
+- HTML, CSS
+- Flask
+- Git & GitHub
+
+### Projects
+- House Price Prediction using ML
+- Healthcare Face Recognition Login System
+- Doctor-Patient Audio Prescription System
+- AI Dermatology Assistant
+
+### Contact
+📧 shilpaj.21ds@saividya.ac.in
