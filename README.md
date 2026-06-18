@@ -1,4 +1,5 @@
-# Hi, I'm Shilpa J 
+# Hi, I'm Shilpa J 👋
+
 ## Software Engineer
 
 I am a passionate Software Engineer interested in building real-world projects using Python, Machine Learning, Data Science, and Web Development.
