@@ -18,4 +18,4 @@ I am a passionate Software Engineer interested in building real-world projects u
 
 
 ### Contact
-📧 shilpaj.21ds@saividya.ac.in
+📧 shilpaj4418@gmail.com
