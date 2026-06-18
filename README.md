@@ -6,13 +6,28 @@ I am a passionate Software Engineer interested in building real-world projects u
 
 ### Skills
 - Python
-- Java
 - SQL
 - Machine Learning
 - Data Science
 - HTML, CSS
-- Flask
-- Git & GitHub
+- PowerBI
+  
+  
+💻 Languages & Frameworks
+
+Python | Java | SQL | HTML | CSS | JavaScript | Flask | Streamlit
+
+🤖 AI, ML & Data Science
+
+Machine Learning  | Data Analysis | NumPy | Pandas | OpenCV | Matplotlib | Scikit-learn
+
+📊 Data & Visualization
+
+Power BI | Data Analytics | Statistical Analysis | Data Preprocessing | Feature Engineering
+
+🛠️ Tools & Platforms
+
+Jupyter Notebook | VS Code | PyCharm | MySQL Workbench | Git | GitHub
 
 
 
