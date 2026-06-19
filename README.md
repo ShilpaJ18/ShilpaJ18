@@ -15,7 +15,7 @@ I am a passionate Software Engineer interested in building real-world projects u
   
 💻 Languages & Frameworks
 
-Python | Java | SQL | HTML | CSS | JavaScript | Flask | Streamlit
+Python | Java | SQL | HTML | CSS 
 
 🤖 AI, ML & Data Science
 
